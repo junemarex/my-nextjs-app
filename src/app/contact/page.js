@@ -7,6 +7,7 @@ export default function contact() {
   return (
     <div>
       <p className="text-black">Gmail: junemarex.madera@hcdc.edu.ph</p>
+      <p className="text-black">School: Holy Cross of Davao College</p>
       <button onClick={() => router.back()}>Back</button>
     </div>
   );
